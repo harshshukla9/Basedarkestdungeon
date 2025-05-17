@@ -34,15 +34,15 @@ Explore rooms, defeat enemies, and find the stairs to advance to the next level.
 
 ## 🛠️ Built for CoreGaming Hackathon
 
-This game is built for the Core Hackathon using modern tools and Web3 integrations. Here’s what powers the dungeon:
+This game is built for the Base Hackathon using modern tools and Web3 integrations. Here’s what powers the dungeon:
 
 
 - On-Chain Features: Store scores and timer data on-chain, unlocking special perks for future playthroughs.
 - Minting the score in form of Token Dungeon(DGN)
 
 Chainid[1115]
-Contracts are deployed at [0x7e8190b4Da8828577557D0a536bF0fd93B3AEC6a](https://scan.test.btcs.network/address/0x7e8190b4Da8828577557D0a536bF0fd93B3AEC6a) on Core Testnet. Chainid[1115]
-Contract Token Dungeon at [0x2F5b16822Cdd51fc1DBe6e7614b807c8D1e20E49](https://scan.test.btcs.network/address/0x2F5b16822Cdd51fc1DBe6e7614b807c8D1e20E49) on Core Testnet.
+Contracts are deployed at [0x1561Ca01EE9E3978Df9ac49dcA0d8e8f30929110] on Base Testnet.
+Contract Token Dungeon at [0x83F159aa37D8Bec7DE4651e9421c1f2db915A738] on Base Testnet.
 
 ---
 
@@ -97,7 +97,7 @@ Contract Token Dungeon at [0x2F5b16822Cdd51fc1DBe6e7614b807c8D1e20E49](https://s
 
 ## 🎥 Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/irDNxg45pvI/0.jpg)](https://www.youtube.com/watch?v=irDNxg45pvI)
+[![Demo Video](https://img.youtube.com/vi/irDNxg45pvI/0.jpg)](https://youtu.be/Fsc3SiOEBvY)
 
 ## Get Started 🚀
 
