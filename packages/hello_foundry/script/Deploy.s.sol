@@ -28,22 +28,7 @@ contract DeployScript is Script {
         vm.stopBroadcast();
     }
 }
-// forge script script/Deploy.s.sol --rpc url https://rpc.test.btcs.network/ --private-key  --broadcast
 
-// forge script script/Deploy.s.sol https://rpc.test.btcs.network/  --broadcast
-
-//
-
-// forge script script/Deploy.s.sol --rpc-url https://rpc.coredao.org/ --private-key  --broadcast
-
-
-
-//  forge script script/Deploy.s.sol --rpc-url https://sepolia.base.org/ --private-key  --broadcast --legacy --gas-price 1000000001
-
-//Core
-//  Deploying contracts using deployer address: 0xd4E4e3fAc5Df59f8C7230d055fd4C252f4d111df
-//   Deployed Dungeon Token at address: 0x3E9A7bAdd6c3711125d4867733E3F1ee9b1D7943
-//   Deployed Darkest Dungeon at address: 0x328a5AFdCCba55195C1ca98c76F58b1a80A70fCa
 
 
 //BaseTestnet
